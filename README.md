@@ -1,3 +1,3 @@
 # books
-Published books
-Books: Cloud Optics, Snow Optics
+Published books:
+Cloud Optics, Snow Optics
